@@ -4,5 +4,3 @@ numpy
 pymango
 setuptools
 certifi
-
-# -e .
