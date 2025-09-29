@@ -1,0 +1,2 @@
+[ 2025-09-29 12:10:46,160 12 root - INFO - Initiate the data ingestion
+[ 2025-09-29 12:10:47,490 17 root - ERROR - An unhandled exception occurred: NetworkSecurityException.__init__() missing 2 required positional arguments: 'error_message' and 'error_details'

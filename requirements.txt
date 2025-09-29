@@ -1,8 +1,10 @@
 python-dotenv
 pandas
 numpy
-pymango
-setuptools
 certifi
+pymongo[srv]
+scikit-learn
+dill
+PyYAML
 
 # -e .

@@ -1,0 +1,11 @@
+[ 2025-09-29 13:18:20,992 12 root - INFO - Initiate the data ingestion
+[ 2025-09-29 13:18:20,992 104 root - INFO - Starting data ingestion process...
+[ 2025-09-29 13:18:20,992 32 root - INFO - Connecting to MongoDB Database: networksecurity, Collection: networkML
+[ 2025-09-29 13:18:22,294 38 root - INFO - Total documents in collection: 11055
+[ 2025-09-29 13:18:30,323 52 root - INFO - DataFrame created with shape: (11055, 31)
+[ 2025-09-29 13:18:30,756 68 root - INFO - Feature store CSV created at: Artifacts\09_29_2025_13_18_18\data_ingestion\feature_store\phisingData.csv
+[ 2025-09-29 13:18:30,786 82 root - INFO - Performed train-test split.
+[ 2025-09-29 13:18:31,265 93 root - INFO - Train CSV saved at: Artifacts\09_29_2025_13_18_18\data_ingestion\ingested\train.csv
+[ 2025-09-29 13:18:31,270 94 root - INFO - Test CSV saved at: Artifacts\09_29_2025_13_18_18\data_ingestion\ingested\test.csv
+[ 2025-09-29 13:18:31,271 121 root - INFO - Data ingestion completed successfully.
+[ 2025-09-29 13:18:31,271 14 root - INFO - Data Ingestion completed successfully. Artifact: DataIngestionArtifact(trained_file_path='Artifacts\\09_29_2025_13_18_18\\data_ingestion\\ingested\\train.csv', test_file_path='Artifacts\\09_29_2025_13_18_18\\data_ingestion\\ingested\\test.csv')

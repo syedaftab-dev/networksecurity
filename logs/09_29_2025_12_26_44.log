@@ -1,0 +1,3 @@
+[ 2025-09-29 12:26:47,345 12 root - INFO - Initiate the data ingestion
+[ 2025-09-29 12:26:47,345 93 root - INFO - Exporting collection data as pandas dataframe
+[ 2025-09-29 12:27:07,408 17 root - ERROR - An unhandled exception occurred: Erro Occured in python script name [E:\NetworkSecurity\networksecurity\components\data_ingestion.py] line number [94] erro message [Erro Occured in python script name [E:\NetworkSecurity\networksecurity\components\data_ingestion.py] line number [36] erro message [The DNS operation timed out after 20.01024866104126 seconds]]
