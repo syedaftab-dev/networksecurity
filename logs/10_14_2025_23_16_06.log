@@ -1,4 +1,0 @@
-[ 2025-10-14 23:16:10,091 20 root - INFO - Initiate the data ingestion
-[ 2025-10-14 23:16:10,091 179 root - INFO - Starting data ingestion process...
-[ 2025-10-14 23:16:10,091 71 root - INFO - Connecting to MongoDB Database: KRISHAI, Collection: NetworkData
-[ 2025-10-14 23:16:14,881 79 root - INFO - Total documents in collection: 0
