@@ -1,0 +1,19 @@
+[ 2025-10-11 21:44:51,065 13 root - INFO - Initiate the data ingestion
+[ 2025-10-11 21:44:51,065 179 root - INFO - Starting data ingestion process...
+[ 2025-10-11 21:44:51,065 71 root - INFO - Connecting to MongoDB Database: networksecurity, Collection: networkML
+[ 2025-10-11 21:44:56,015 79 root - INFO - Total documents in collection: 11055
+[ 2025-10-11 21:44:59,312 95 root - INFO - DataFrame created with shape: (11055, 31)
+[ 2025-10-11 21:44:59,445 121 root - INFO - Feature store CSV created at: Artifacts\10_11_2025_21_44_48\data_ingestion\feature_store\phisingData.csv
+[ 2025-10-11 21:44:59,453 148 root - INFO - Performed train-test split.
+[ 2025-10-11 21:44:59,540 158 root - INFO - Train CSV saved at: Artifacts\10_11_2025_21_44_48\data_ingestion\ingested\train.csv
+[ 2025-10-11 21:44:59,569 162 root - INFO - Test CSV saved at: Artifacts\10_11_2025_21_44_48\data_ingestion\ingested\test.csv
+[ 2025-10-11 21:44:59,570 196 root - INFO - Data ingestion completed successfully.
+[ 2025-10-11 21:44:59,570 15 root - INFO - Data Initiation Completed
+[ 2025-10-11 21:44:59,585 20 root - INFO - Initiate the data Validation
+[ 2025-10-11 21:44:59,725 64 root - INFO - Required number of columns: 2
+[ 2025-10-11 21:44:59,726 65 root - INFO - Data frame has columns: 31
+[ 2025-10-11 21:44:59,726 144 root - ERROR - Train dataframe does not contain all required columns
+[ 2025-10-11 21:44:59,726 64 root - INFO - Required number of columns: 2
+[ 2025-10-11 21:44:59,726 65 root - INFO - Data frame has columns: 31
+[ 2025-10-11 21:44:59,726 148 root - ERROR - Test dataframe does not contain all required columns
+[ 2025-10-11 21:45:00,133 22 root - INFO - data Validation Completed
